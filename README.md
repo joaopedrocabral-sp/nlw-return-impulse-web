@@ -5,6 +5,10 @@ A aplicação é um Widget de Feedback onde a pessoa pode clicar e escolher qual
 
 Foi construído tanto o front-end quanto o back-end.
 
+Na pasta Web está a aplicação front-end.
+
+Na pasta Server está a aplicação back-end.
+
 ## Tecnologias usadas :
 <div style= "display: inline_block">
   <img allign="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
