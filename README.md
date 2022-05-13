@@ -6,7 +6,9 @@ A aplicação é um Widget de Feedback onde a pessoa pode clicar e escolher qual
 Foi construído tanto o front-end quanto o back-end.
 
 ## Tecnologias usadas :
-<img allign="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img allign="center" alt="TAILWIND CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img allign="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img allign="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<div style= "display: inline_block">
+  <img allign="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img allign="center" alt="TAILWIND CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img allign="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img allign="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+</div>
